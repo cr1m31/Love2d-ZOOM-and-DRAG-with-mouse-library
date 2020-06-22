@@ -12,7 +12,7 @@ See the MIT license.
 This program comes with ABSOLUTELY NO WARRANTY.
 I am not be responsible of what you will do with this code.  
 _________________________________________________________________________________________________________
-It is made for a tutorial on YT: TBD
+It is made for a tutorial on Youtube: TBD
 
 The symbolic concept is that you have multiple dimensions, like parallel dimensions in this program.
 
