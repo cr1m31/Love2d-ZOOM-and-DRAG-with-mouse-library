@@ -2,12 +2,12 @@ io.stdout:setvbuf('no') --console output at run
 love.graphics.setDefaultFilter("nearest") --no anti aliasing
 
 --[[
-ZOOM and TRANSLATE library_____________________________________________________________________________
+Love2d ZOOM and DRAG with mouse library _____________________________________________________________________________
 
-  code inspired by javidx9 (one lone coder) 
-  https://youtu.be/ZQ8qtAizis4
+code inspired by javidx9 (one lone coder) 
+https://youtu.be/ZQ8qtAizis4
 
-   made by me cr1m3 for love2d in Lua
+made by me cr1m3 for love2d in Lua
 _________________________________________________________________________________________________________
 
 The symbolic concept is that you have multiple dimensions, like parallel dimensions in this program.
