@@ -10,9 +10,11 @@ https://github.com/OneLoneCoder/videos/blob/master/OneLoneCoder_PanAndZoom.cpp
 
 See the MIT license.
 This program comes with ABSOLUTELY NO WARRANTY.
-I am not be responsible of what you will do with this code.  
+I am not responsible of what you will do with this code.  
 _________________________________________________________________________________________________________
-It is made for a tutorial on Youtube: TBD
+It is made for a tutorial on Youtube:
+
+https://youtu.be/sI48x3q-oHI
 
 The symbolic concept is that you have multiple dimensions, like parallel dimensions in this program.
 
